@@ -1,0 +1,7 @@
+C:\Users\yjalm\source\repos\TimeAdd\TimeAdd\bin\Debug\TimeAdd.exe.config
+C:\Users\yjalm\source\repos\TimeAdd\TimeAdd\bin\Debug\TimeAdd.exe
+C:\Users\yjalm\source\repos\TimeAdd\TimeAdd\bin\Debug\TimeAdd.pdb
+C:\Users\yjalm\source\repos\TimeAdd\TimeAdd\obj\Debug\TimeAdd.csproj.AssemblyReference.cache
+C:\Users\yjalm\source\repos\TimeAdd\TimeAdd\obj\Debug\TimeAdd.csproj.CoreCompileInputs.cache
+C:\Users\yjalm\source\repos\TimeAdd\TimeAdd\obj\Debug\TimeAdd.exe
+C:\Users\yjalm\source\repos\TimeAdd\TimeAdd\obj\Debug\TimeAdd.pdb
